@@ -52,7 +52,7 @@
           </repository>
           <repository type="git" url="https://github.com/capstanlqc-pisa/PISA_2025_fr-ZZ_SignOff_OMT.git">
               <!-- base version -->
-              <mapping local="tm/auto/fr-ZZ.tmx" repository="omegat/projec_save.tmx" />
+              <mapping local="tm/auto/fr-ZZ.tmx" repository="omegat/project_save.tmx" />
           </repository>
       </repositories>
     </project>
