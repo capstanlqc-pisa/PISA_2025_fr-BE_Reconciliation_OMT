@@ -4,7 +4,6 @@
   <!ENTITY TARGET_LANG "fr-BE">
   <!ENTITY STEP "Reconciliation">
   <!ENTITY THIS_REPO "PISA_2025_&TARGET_LANG;_&STEP;_OMT">
-  <!ENTITY STEP "SignOff">
 ]>
 <omegat>
     <project version="1.0">
