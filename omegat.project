@@ -50,7 +50,7 @@
             <!-- target files -->
             <mapping local="target/" repository="&STEP;/&TARGET_LANG;/" />
           </repository>
-          <repository type="git" url="https://github.com/&ORG;/PISA_2025_fr-ZZ_SignOff_OMT">
+          <repository type="git" url="https://github.com/capstanlqc-pisa/PISA_2025_fr-ZZ_SignOff_OMT.git">
               <!-- base version -->
               <mapping local="tm/auto/fr-ZZ.tmx" repository="omegat/projec_save.tmx" />
           </repository>
